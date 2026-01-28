@@ -65,8 +65,7 @@ Ao analisar o ranking de vendedores, é possível identificar diferentes níveis
 No ranking por categoria, observa-se que a prestação de serviços é a mais rentável, seguida pela venda de componentes e, por último, pela venda de bicicletas, evidenciando o principal ponto forte da empresa.
 
 **Possível ação:**  
-Para melhorar o desempenho dos vendedores com resultados inferiores, pode-se investir em treinamentos, utilizando os vendedores de melhor desempenho como referência para compartilhamento de técnicas e boas práticas.  
-Em relação às categorias, é interessante avaliar estratégias para impulsionar as vendas de bicicletas e componentes, bem como manter e aprimorar a qualidade da prestação de serviços.
+Para melhorar o desempenho dos vendedores com resultados inferiores, pode-se investir em treinamentos, utilizando os vendedores de melhor desempenho como referência para compartilhamento de técnicas e boas práticas. Em relação às categorias, é interessante avaliar estratégias para impulsionar as vendas de bicicletas e componentes, bem como manter e aprimorar a qualidade da prestação de serviços.
 
 ### 📈 Gráfico 4 – Participação das Vendas por Categoria
 
